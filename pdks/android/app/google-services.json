@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387271244589",
+    "project_id": "pdks-3a8fc",
+    "storage_bucket": "pdks-3a8fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387271244589:android:082a980ad9d71421ddf1a4",
+        "android_client_info": {
+          "package_name": "com.example.pdks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOm5Oyb9PX6RPhtRaM5r-a-GxeRzqjBac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
